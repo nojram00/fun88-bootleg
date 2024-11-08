@@ -1,4 +1,4 @@
-import { Category, Game, getGames } from '@/mock-api/apihandler'
+import { Category, Game } from '@/mock-api/apihandler'
 import React from 'react'
 import GameCard from '../GameCard';
 
